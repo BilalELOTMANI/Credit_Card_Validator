@@ -1,0 +1,4 @@
+﻿  credit-card-validator.cpp
+C:\Users\bilal\source\repos\Credit_Card_Validator\credit-card-validator.cpp(8,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bilal\source\repos\Credit_Card_Validator\credit-card-validator.cpp(34,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Credit_Card_Validator.vcxproj -> C:\Users\bilal\source\repos\Credit_Card_Validator\x64\Debug\Credit_Card_Validator.exe

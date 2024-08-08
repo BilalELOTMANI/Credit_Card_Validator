@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bilal\\source\\repos\\Credit_Card_Validator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAA4DB68-4152-41C0-A51A-04E371064151}|Credit_Card_Validator.vcxproj|C:\\Users\\bilal\\source\\repos\\Credit_Card_Validator\\credit-card-validator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BAA4DB68-4152-41C0-A51A-04E371064151}|Credit_Card_Validator.vcxproj|solutionrelative:credit-card-validator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "credit-card-validator.cpp",
+              "DocumentMoniker": "C:\\Users\\bilal\\source\\repos\\Credit_Card_Validator\\credit-card-validator.cpp",
+              "RelativeDocumentMoniker": "credit-card-validator.cpp",
+              "ToolTip": "C:\\Users\\bilal\\source\\repos\\Credit_Card_Validator\\credit-card-validator.cpp",
+              "RelativeToolTip": "credit-card-validator.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-03T18:07:29.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
